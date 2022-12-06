@@ -7,6 +7,7 @@
     <title>Teste</title>
 </head>
 <body>
+    <?= "teste xablau" ?>
     <h1>Olá mundo</h1>
 </body>
 </html>
